@@ -1,0 +1,2 @@
+This is my first Odin Project "project." It's simple in nature, but it's apparently designed to help ease me into the HTML and will be styled in future with CSS. 
+It's also helped me wrap my head around creating new repos on GitHub and moving the repository onto my local machine. 
